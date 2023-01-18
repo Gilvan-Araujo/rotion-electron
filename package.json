@@ -2,7 +2,7 @@
   "name": "rotion",
   "productName": "Rotion",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Notion exercise alternative written with electron",
   "main": "./out/main/index.js",
   "author": "gilvanaraujo.dev",
